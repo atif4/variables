@@ -1,5 +1,5 @@
-# variables
-variables chapter
+# combination 
+variables 
 functions 
 list 
 if-else 
